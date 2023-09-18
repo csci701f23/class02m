@@ -1,0 +1,1 @@
+Hi, my name is Catie Baxter and another class I am taking this semester is Statistical Learning. 
