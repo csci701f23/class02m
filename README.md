@@ -44,7 +44,7 @@ git add profiles/[lastname].md
 Then to commit the changes:
 
 ```sh
-git commit -m "commit message"
+git
 ```
 
 Please replace the "commit message" with a more informative description, such as "adds a short bio of Mike Wazowski". Then "push" this to the remote repository:
