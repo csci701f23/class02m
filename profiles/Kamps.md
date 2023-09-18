@@ -1,0 +1,1 @@
+Hi, my name is Ulysses Kamps and another class I am taking this semester is Atlantic World History.
