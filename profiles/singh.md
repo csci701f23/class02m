@@ -1,0 +1,1 @@
+Hi I am Mihir and I am also taking AMST101: American Crime and Violence. My next class starts at 12:45.
